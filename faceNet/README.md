@@ -7,7 +7,7 @@ This faceNet project is tensorflow implementation:https://github.com/davidsandbe
 3. python3.5
 
 ## pre-processing
-  In this project, I using dilib to align face instead of MTCNN. Because it takes less time to use dilib face align, but the accuarcy don't have much influence
+　In this project, I using dilib to align face instead of MTCNN. Because it takes less time to use dilib face align, but the accuarcy don't have much influence
 
 ## using model
 1. facenet model [20170512-110547](https://drive.google.com/file/d/0B5MzpY9kBtDVZ2RpVDYwWmxoSUk)
